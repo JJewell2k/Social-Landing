@@ -1,0 +1,5 @@
+[0201/145953.788:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: URL-адрес не использует поддерживаемый протокол (0x2ee6)
+[0323/220128.603:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: URL-адрес не использует поддерживаемый протокол (0x2ee6)
+[0324/124541.663:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: URL-адрес не использует поддерживаемый протокол (0x2ee6)
+[0528/120124.703:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: URL-адрес не использует поддерживаемый протокол (0x2ee6)
+[0611/210424.425:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: URL-адрес не использует поддерживаемый протокол (0x2ee6)
